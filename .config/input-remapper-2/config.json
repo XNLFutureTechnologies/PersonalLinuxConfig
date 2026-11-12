@@ -1,0 +1,8 @@
+{
+    "version": "2.2.0",
+    "autoload": {
+        "Logitech MX Ergo": "XNL Mouse Config",
+        "Logitech M570": "new preset",
+        "SEMICO   USB Gaming Keyboard ": "XNL Fn Emoji's"
+    }
+}
