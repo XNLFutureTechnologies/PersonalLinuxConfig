@@ -1,0 +1,119 @@
+[
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 165,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(5).key(4).key(a))).modify(Control_L, modify(Shift_L, key(u).key(f).key(e).key(0).key(f))).wait(10).modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(a).key(b).key(6)))",
+        "name": "XF86AudioPrev (And Fn+F6) = \ud83d\udd4a\ufe0f\ud83e\udeb6",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 164,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(6).key(0).key(a)))",
+        "name": "XF86AudioPlay (And Fn+F7) = \ud83d\ude0a",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 163,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(4).key(4).key(d))).modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(3).key(f).key(e)))",
+        "name": "XF86AudioNext (And Fn+F8) = \ud83d\udc4d\ud83c\udffe",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 171,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(9).key(7).key(0)))",
+        "name": "Fn+F1 = \ud83e\udd70",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 166,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(6).key(0).key(2).key(space)))",
+        "name": "Fn+F5 = \ud83d\ude02",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 155,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).wait(60).key(1).key(f).key(9).key(3).key(7))).wait(10)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(1).key(f).key(3).key(f).key(e))).wait(10)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(2).key(0).key(0).key(d))).wait(10)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(2).key(6).key(4).key(0))).wait(10)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(f).key(e).key(0).key(f)))",
+        "name": "Fn+F9 = \ud83e\udd37\ud83c\udffe\u200d\u2640\ufe0f",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 172,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).wait(60).key(1).key(f).key(9).key(2).key(6))).wait(120)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(1).key(f).key(3).key(f).key(e))).wait(120)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(2).key(0).key(0).key(d))).wait(120)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(2).key(6).key(4).key(0))).wait(120)\n.modify(Control_L, modify(Shift_L, key(u).wait(60).key(f).key(e).key(0).key(f)))",
+        "name": "Fn+F10 = \ud83e\udd26\ud83c\udffe\u200d\u2640\ufe0f",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 144,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(6).key(0).key(9)))",
+        "name": "Fn+F11 = \ud83d\ude09",
+        "mapping_type": "key_macro"
+    },
+    {
+        "input_combination": [
+            {
+                "type": 1,
+                "code": 140,
+                "origin_hash": "762fd074a44caa0b337d3f1057adfc2a"
+            }
+        ],
+        "target_uinput": "keyboard",
+        "output_symbol": "modify(Control_L, modify(Shift_L, key(u).key(1).key(f).key(9).key(1).key(4)))",
+        "name": "Fn+F12 = \ud83e\udd14",
+        "mapping_type": "key_macro"
+    }
+]
