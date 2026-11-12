@@ -6,7 +6,7 @@ First off I always use my own "XNL Insiders Scripts" to configure the full setup
 
 # Programs and small utils we often use for development:
 Tilde : **sudo apt install tilde** - In MY opinion a MUCH better alternative to nano (although it's not finished (yet))
-sshpass : **sudo apt install shhpass** - Used to automatically enter ssh passwords for development on our embedded distros
+sshpass : **sudo apt install sshpass** - Used to automatically enter ssh passwords for development on our embedded distros
 
 # Tilde Color Scheme
 <img width="300" height="206" alt="TildeThemePreview" src="https://github.com/user-attachments/assets/8f7b8834-8b22-42dc-84c1-bdccec98094a" />  
