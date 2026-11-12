@@ -9,7 +9,8 @@ Tilde : **sudo apt install tilde** - In MY opinion a MUCH better alternative to 
 sshpass : **sudo apt install shhpass** - Used to automatically enter ssh passwords for development on our embedded distros
 
 # Tilde Color Scheme
-<img width="656" height="450" alt="TildeThemePreview" src="https://github.com/user-attachments/assets/8f7b8834-8b22-42dc-84c1-bdccec98094a" />
+<img width="300" height="206" alt="TildeThemePreview" src="https://github.com/user-attachments/assets/8f7b8834-8b22-42dc-84c1-bdccec98094a" />  
+
 My personal tilde color scheme is configured to look quite a lot like the old MS-Dos edit.com. If you would like to use the same style, you can simply copy the config file from this repo and drop it into your own config directory at: ***~/.config/tilde/config*** (NOTE: the last config in this path is the **file** here!)  
 
 # No Asterisks for sudo in the terminal
