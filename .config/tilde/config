@@ -1,0 +1,19 @@
+highlight_attributes {
+        normal = (  )
+}
+config_version = 1
+%terminals {
+        name = "xterm-256color"
+        key_timeout = -1000
+        highlight_attributes {
+                normal = (  )
+        }
+        color = true
+        attributes {
+                text = ( "fg white", "bg 18" )
+                menubar = ( "fg black", "bg 253" )
+                text_selected = ( "fg black", "bg 253" )
+                hotkey_highlight = ( "fg red" )
+                dialog = ( "fg black", "bg 253" )
+        }
+}
